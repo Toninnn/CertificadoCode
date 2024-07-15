@@ -482,7 +482,7 @@ void InitializeGame()
     ShowFood();
     Console.SetCursorPosition(0, 0);
     Console.Write(player);
-}*/
+}
 
 int productCount = 2000;
 string[,] products = new string[productCount, 2];
@@ -553,3 +553,7 @@ static void Process3(string[,] products, int item)
 {
     Console.WriteLine($"Process3 message - processing product information for 'new' product");
 }
+*/
+
+string valor = "teste";
+// novo teste
