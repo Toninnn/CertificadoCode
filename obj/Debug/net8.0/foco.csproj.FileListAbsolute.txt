@@ -12,3 +12,4 @@ C:\Users\anton\foco\obj\Debug\net8.0\refint\foco.dll
 C:\Users\anton\foco\obj\Debug\net8.0\foco.pdb
 C:\Users\anton\foco\obj\Debug\net8.0\foco.genruntimeconfig.cache
 C:\Users\anton\foco\obj\Debug\net8.0\ref\foco.dll
+C:\Users\anton\foco\obj\Debug\net8.0\foco.sourcelink.json

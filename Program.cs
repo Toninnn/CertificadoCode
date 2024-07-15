@@ -556,4 +556,4 @@ static void Process3(string[,] products, int item)
 */
 
 string valor = "teste";
-// novo teste
+Console.WriteLine(valor);
