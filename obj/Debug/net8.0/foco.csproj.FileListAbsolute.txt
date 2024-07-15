@@ -1,0 +1,14 @@
+C:\Users\anton\foco\bin\Debug\net8.0\foco.exe
+C:\Users\anton\foco\bin\Debug\net8.0\foco.deps.json
+C:\Users\anton\foco\bin\Debug\net8.0\foco.runtimeconfig.json
+C:\Users\anton\foco\bin\Debug\net8.0\foco.dll
+C:\Users\anton\foco\bin\Debug\net8.0\foco.pdb
+C:\Users\anton\foco\obj\Debug\net8.0\foco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\foco\obj\Debug\net8.0\foco.AssemblyInfoInputs.cache
+C:\Users\anton\foco\obj\Debug\net8.0\foco.AssemblyInfo.cs
+C:\Users\anton\foco\obj\Debug\net8.0\foco.csproj.CoreCompileInputs.cache
+C:\Users\anton\foco\obj\Debug\net8.0\foco.dll
+C:\Users\anton\foco\obj\Debug\net8.0\refint\foco.dll
+C:\Users\anton\foco\obj\Debug\net8.0\foco.pdb
+C:\Users\anton\foco\obj\Debug\net8.0\foco.genruntimeconfig.cache
+C:\Users\anton\foco\obj\Debug\net8.0\ref\foco.dll
