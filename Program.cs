@@ -728,3 +728,6 @@ static string TillAmountSummary(int[] cashTill)
     return $"The till has {cashTill[3] * 20 + cashTill[2] * 10 + cashTill[1] * 5 + cashTill[0]} dollars";
 
 }
+
+// com esta nova versao pretendo att o git para dar um git back para o novo valor
+  
