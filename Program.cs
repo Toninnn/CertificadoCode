@@ -730,4 +730,5 @@ static string TillAmountSummary(int[] cashTill)
 }
 
 // com esta nova versao pretendo att o git para dar um git back para o novo valor
+// nova tentativa 
   

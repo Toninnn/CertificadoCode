@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("foco")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fd18363067a411384d50f0b73dc199b1ee4673e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4fbcb91d385788fdcc479f6940f7807cc440fb5")]
 [assembly: System.Reflection.AssemblyProductAttribute("foco")]
 [assembly: System.Reflection.AssemblyTitleAttribute("foco")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
